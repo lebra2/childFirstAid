@@ -1,7 +1,6 @@
 # childFirstAid
 
-#Liikmed
-
+# Liikmed
 
     Markus Timofejev
     Krista Kallas
@@ -12,4 +11,4 @@
     Henrik Mütt
 
 
-#Analüüs
+# Analüüs
