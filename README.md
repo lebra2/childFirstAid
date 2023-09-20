@@ -37,7 +37,8 @@ Peatsetel lapsevanematel (eriti esmakordsetel) on tihti mure, kuidas tagada uue 
 - Panime paika peamised alajaotused, mida lehel tahame kuvada.
 - Väga häid ja lihtsaid videosid leidsime, aga inglise keeles. Kas voiceover? ise? kasutades AI-d?
 - Mis raamistikku kasutada? VUE.js
-- Esimesed sammud lehe disaini poolel. Mis on pealehel ja kuidas on lehe ülesehitus.
+- Esimesed sammud lehe disaini poolel. Figma algus.
+- 
 
 
 
