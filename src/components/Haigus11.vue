@@ -88,7 +88,7 @@
     data() {
       return {
         visible: false,
-      };
+      };    
     },
   };
 
