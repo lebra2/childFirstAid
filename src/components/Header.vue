@@ -1,7 +1,7 @@
 <template>
     <div class="flex px-6 py-4 justify-between items-center font-[Sans-Serif]">
       <div class="text-xl font-medium">
-        <img src="../assets/Pictures/beebifine.png" class="max-w-12 max-h-12" alt="">
+        <router-link to="/"><img src="../assets/Pictures/beebifine.png" class="max-w-12 max-h-12" alt=""></router-link>
       </div>
       <h1 class="text-2xl font-medium">Beebifine</h1>
       <nav class="lg:flex hidden sticky">
