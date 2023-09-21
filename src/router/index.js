@@ -24,6 +24,26 @@ const router = createRouter({
       path: '/haigus1-1',
       name: 'haigus1-1',
       component: () => import('../views/Haigus1-1.vue')
+    },
+    {
+      path: '/ennetamine1',
+      name: 'ennetamine1',
+      component: () => import('../views/Ennetamine1.vue')
+    },
+    {
+      path: '/ennetamine2',
+      name: 'ennetamine2',
+      component: () => import('../views/Ennetamine2.vue')
+    },
+    {
+      path: '/ennetamine3',
+      name: 'ennetamine3',
+      component: () => import('../views/Ennetamine3.vue')
+    },
+    {
+      path: '/ennetamine4',
+      name: 'ennetamine4',
+      component: () => import('../views/Ennetamine4.vue')
     }
   ]
 })
