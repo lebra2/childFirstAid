@@ -11,6 +11,12 @@
 - Henrik Mütt
 - Kristo Lember
 
+# Lingid
+
+- Figma https://www.figma.com/file/A8ip2KIXzOnbeVWJmrNY3w/Untitled?type=design&node-id=0-1&mode=design&t=KRWxZpeAQ9Qsfghd-0
+- Avalik leht https://www.figma.com/file/A8ip2KIXzOnbeVWJmrNY3w/Untitled?type=design&node-id=0-1&mode=design&t=KRWxZpeAQ9Qsfghd-0
+- Clickup https://www.figma.com/file/A8ip2KIXzOnbeVWJmrNY3w/Untitled?type=design&node-id=0-1&mode=design&t=KRWxZpeAQ9Qsfghd-0
+
   
 # Analüüs 
 Tänapäeval on väikelaste tervis, heaolu ja ohtus nende vanemate jaoks suur prioriteet. Väikelaste esmaabi kohta leiab küll infot ja nõuandeid, kuid väidetavalt pole lehte, mis koondaks kokku
