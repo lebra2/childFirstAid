@@ -1,11 +1,14 @@
 <script setup>
 
-import Component from '../components/MobileLinks.vue';
+import Footer from '../components/Footer.vue'
+import Header from '../components/Header.vue'
 
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <Header />
+    <Footer />
+
   </main>
 </template>
