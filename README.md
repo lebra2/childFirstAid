@@ -42,8 +42,19 @@ Peatsetel lapsevanematel (eriti esmakordsetel) on tihti mure, kuidas tagada uue 
  21.09.2023
 - Eelmise päeva töö review.
 - Taskide jagamine ClickUp-is (peamised disain, arendus ja sisu).
-- Oma taski kallal töötamine.
-
+- Väikesed muudatused disainis.
+- Logo loomine, nime valimine BeebiFine.
+- Figmas disaini arendamine.
+- Jooksvalt koodi kirjutamine.
+- Piltide otsimine ja eestikelseks konvertimine (vana hea Canva :)
+- Otsustasime peamiste teemade alla valida vaid neli haigust/olukorda/asja. Hiljem saab alati juurde lisada.
+- Disaini lisasime "tip of the day" nurga.
+- Erinevate haiguste info otsimine.
+- Lastele ohtlike olukordade leidmine, lahenduste otsimine.
+- Pisike abi koodikirjutamisel teistest gruppidest.
+- Tekstide kontroll.
+- Videote otsimine. Kuhu kadusid eile otsitud videod?
+- 
 
   22.09
 - Eelmise päeva töö review.
