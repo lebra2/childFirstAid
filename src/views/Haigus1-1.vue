@@ -2,14 +2,14 @@
 
 import Footer from '../components/Footer.vue'
 import Header from '../components/Header.vue'
-import Season from '../components/Season.vue';
+import Haigus11 from '../components/Haigus11.vue';
 
 </script>
 
 <template>
   <main>
     <Header />
-    <Season />
+    <Haigus11/>
     <Footer />
 
   </main>

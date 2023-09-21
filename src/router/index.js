@@ -19,6 +19,11 @@ const router = createRouter({
       path: '/haigus1',
       name: 'haigus1',
       component: () => import('../views/Haigus1.vue')
+    },
+    {
+      path: '/haigus1-1',
+      name: 'haigus1-1',
+      component: () => import('../views/Haigus1-1.vue')
     }
   ]
 })
