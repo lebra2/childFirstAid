@@ -10,7 +10,17 @@ import Haigus11 from '../components/Haigus11.vue';
   <main>
     <Header />
     <h1>Haiguste ennetamine 2</h1>
-    <Haigus11/>
+    <Haigus11 video-link=""
+    sellest-para=""
+    haiguse-ennet1=""
+    haiguse-ennet2=""
+    haiguse-ennet3=""
+    tee-seda1=""
+    tee-seda2=""
+    tee-seda3=""
+    tee-seda4=""/>
+    <Footer />
+
     <Footer />
 
   </main>

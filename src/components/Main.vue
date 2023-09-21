@@ -26,11 +26,11 @@ function extendMenu(id) {
             <a class="group overflow-hidden" href="#">
       <div class="sm:flex">
         <div class="flex-shrink-0 relative overflow-hidden w-full sm:w-56 h-44">
-          <img class="transition-transform duration-500 ease-in-out w-full h-full absolute top-0 left-0 object-cover" src="https://images.unsplash.com/photo-1540575861501-7cf05a4b125a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="Image Description">
+          <img class="transition-transform duration-500 ease-in-out w-full h-full absolute top-0 left-0 object-cover" src="../assets/Pictures/Baby_header.jpg" alt="Image Description">
         </div>
 
         <div class="grow mt-4 sm:mt-0 sm:ml-6 sm:px-0">
-          <h3 class="text-xl font-semibold text-gray-800">
+          <h3 class="animate-bounce text-xl font-semibold text-gray-800">
             Päeva nipp
           </h3>
           <p class="mt-3 text-gray-600 my-4">
