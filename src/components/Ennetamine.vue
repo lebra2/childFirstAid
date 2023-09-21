@@ -21,7 +21,7 @@ function extendMenu(id) {
 </script>
 
 <template>
-    <div class="bg-[#F6F6F7] pb-4 text-sm font-[Sans-Serif]">
+    <div class="bg-[#F6F6F7] pb-4 text-sm">
         <div class="bg-white h-14 rounded-b-md font-medium border-b-2 overflow-hidden" id="dp5">
             <div class="flex justify-between items-center h-14 w-full">
                 <p class="m-2 text-gray-600">Olukordade ennetamine</p>
