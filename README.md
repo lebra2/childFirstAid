@@ -38,7 +38,17 @@ Peatsetel lapsevanematel (eriti esmakordsetel) on tihti mure, kuidas tagada uue 
 - Väga häid ja lihtsaid videosid leidsime, aga inglise keeles. Kas voiceover? ise? kasutades AI-d?
 - Mis raamistikku kasutada? VUE.js
 - Esimesed sammud lehe disaini poolel. Figma algus.
-- 
+
+ 21.09.2023
+- Eelmise päeva töö review.
+- Taskide jagamine ClickUp-is (peamised disain, arendus ja sisu).
+- Oma taski kallal töötamine.
+
+
+  22.09
+- Eelmise päeva töö review.
+- Komponentide kokkupanek.
+- Viimased viimistlused.
 
 
 
