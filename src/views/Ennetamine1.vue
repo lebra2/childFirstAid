@@ -9,6 +9,7 @@ import Haigus11 from '../components/Haigus11.vue';
 <template>
   <main>
     <Header />
+    <h1>Olukordade Ennetamine 1</h1>
     <Haigus11/>
     <Footer />
 

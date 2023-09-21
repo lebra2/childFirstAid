@@ -1,9 +1,9 @@
 <template>
-    <div class="flex px-6 py-4 justify-between items-center font-[Sans-Serif]">
+    <div class="flex px-6 py-4 justify-between items-center text-gray-800">
       <div class="text-xl font-medium">
         <router-link to="/"><img src="../assets/Pictures/beebifine.png" class="max-w-12 max-h-12" alt=""></router-link>
       </div>
-      <h1 class="text-2xl font-medium">Beebifine</h1>
+      <h1 class="text-2xl font-medium">BeebiFine</h1>
       <nav class="lg:flex hidden sticky">
         <router-link to="/">
           <h1 class="px-4 hover:bg-pink-500 hover:-skew-y-3" href="#">Home</h1>

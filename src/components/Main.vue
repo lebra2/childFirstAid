@@ -30,8 +30,8 @@ function extendMenu(id) {
         </div>
 
         <div class="grow mt-4 sm:mt-0 sm:ml-6 sm:px-0">
-          <h3 class="text-xl font-semibold text-gray-600">
-            Paeva nipp
+          <h3 class="text-xl font-semibold text-gray-800">
+            Päeva nipp
           </h3>
           <p class="mt-3 text-gray-600 my-4">
             Produce professional, reliable streams easily leveraging Preline's innovative broadcast studio
@@ -44,40 +44,33 @@ function extendMenu(id) {
 
         <div class="bg-white h-14 rounded-b-md font-medium border-b-2 overflow-hidden" id="dp1">
             <div class="flex justify-between items-center h-14 w-full">
-                <p class="m-2">Hooajalised haigused</p>
+                <p class="m-2 font-semibold text-gray-800 ">Hooajalised haigused</p>
                 <img class="w-4 h-4 mr-4" src="../assets/Pictures/icons8-arrow-30.png" id="imgdp1" alt="" @click="extendMenu('dp1')">
             </div>
             <Season />
         </div>
         <div class="bg-white h-14 rounded-b-md font-medium border-b-2 overflow-hidden" id="dp2">
             <div class="flex justify-between items-center h-14 w-full">
-                <p class="m-2">Ennetamine</p>
+                <p class="m-2 font-semibold text-gray-800">Ennetamine</p>
                 <img class="w-4 h-4 mr-4" src="../assets/Pictures/icons8-arrow-30.png" id="imgdp2" alt="" @click="extendMenu('dp2')">
             </div>
             <Ennetamine />
         </div>
         <div class="bg-white h-14 rounded-b-md font-medium border-b-2 overflow-hidden" id="dp3">
             <div class="flex justify-between items-center h-14 w-full">
-                <p class="m-2">Haigused</p>
+                <p class="m-2 font-semibold text-gray-800">Haigused</p>
                 <img class="w-4 h-4 mr-4" src="../assets/Pictures/icons8-arrow-30.png" id="imgdp3" alt="" @click="extendMenu('dp3')">
             </div>
             <Season />
         </div>
         <div class="bg-white h-14 rounded-b-md font-medium border-b-2 overflow-hidden" id="dp4">
             <div class="flex justify-between items-center h-14 w-full">
-                <p class="m-2">Olukorrad</p>
+                <p class="m-2 font-semibold text-gray-800">Olukorrad</p>
                 <img class="w-4 h-4 mr-4" src="../assets/Pictures/icons8-arrow-30.png" id="imgdp4" alt="" @click="extendMenu('dp4')">
             </div>
             <Season />
         </div>
         
-
-
-        <div class="mt-6 text-center">
-            Facebook Posts
-            <img class="mt-2" src="../assets/Pictures/fbpostexample.png" alt="">
-            <img class="mt-2" src="../assets/Pictures/fbpostexample.png" alt="">
-        </div>
 
     </div>
 </template>
