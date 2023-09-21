@@ -14,8 +14,8 @@
 # Lingid
 
 - Figma https://www.figma.com/file/A8ip2KIXzOnbeVWJmrNY3w/Untitled?type=design&node-id=0-1&mode=design&t=KRWxZpeAQ9Qsfghd-0
-- Avalik leht https://www.figma.com/file/A8ip2KIXzOnbeVWJmrNY3w/Untitled?type=design&node-id=0-1&mode=design&t=KRWxZpeAQ9Qsfghd-0
-- Clickup https://www.figma.com/file/A8ip2KIXzOnbeVWJmrNY3w/Untitled?type=design&node-id=0-1&mode=design&t=KRWxZpeAQ9Qsfghd-0
+- Avalik leht https://comfy-khapse-d8e6cc.netlify.app/
+- Clickup https://sharing.clickup.com/9015013655/l/h/8cncc8q-35/00b8b094a3b6488
 
   
 # Analüüs 
