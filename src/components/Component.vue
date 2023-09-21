@@ -6,4 +6,4 @@
 <template>
     <p>Siia tuleb sisu</p>
     
-<template>
+</template>
