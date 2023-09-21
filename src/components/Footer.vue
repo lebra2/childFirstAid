@@ -43,27 +43,27 @@
 <template>
   <footer class="text-gray-800 w-full px-4 py-10  mx-auto">
   <!-- Grid -->
-  <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-6 mb-10">
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-10">
     <div>
-      <div class="mt-3 grid space-y-3 text-sm">
+      <div class="mt-3 grid space-y-3">
         <h4 class="text-md font-semibold">Üldine</h4>
-        <p><a class="inline-flex gap-x-2" href="#">Hädaabi</a><span class="inline text-red-600">— 112</span></p>
-        <p><a class="inline-flex gap-x-2" href="#">Mürgistusteabekeskus</a><span class="inline text-red-600">— 16662</span></p>
-        <p><a class="inline-flex gap-x-2" href="#">Perearsti nõuandetelefon</a> <span class="inline text-red-600">— 1220</span></p>
-        <p><a class="inline-flex gap-x-2" href="#">Lastearsti (tasuline) nõuandeliin</a><span class="inline text-red-600">— 1599</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Hädaabi</a><span class="inline text-red-600">— 112</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Mürgistusteabekeskus</a><span class="inline text-red-600">— 16662</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Perearsti nõuandetelefon</a> <span class="inline text-red-600">— 1220</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Lastearsti (tasuline) nõuandeliin</a><span class="inline text-red-600">— 1599</span></p>
       </div>
     </div>
     <!-- End Col -->
 
     <div>
-      <div class="mt-3 grid space-y-3 text-sm">
-        <h4 class="text-md font-semibold">Valvetoad</h4>
-        <p><a class="inline-flex gap-x-2" href="#">Kuressaare Haigla</a><span class="inline text-red-600">— 112</span></p>
-        <p><a class="inline-flex gap-x-2" href="#">Tallinna Lastehaigla</a><span class="inline text-red-600">— 16662</span></p>
-        <p><a class="inline-flex gap-x-2" href="#">Tartu Ülikooli kliinikum</a> <span class="inline text-red-600">— 1220</span></p>
-        <p><a class="inline-flex gap-x-2" href="#">Regionaalhaigla</a><span class="inline text-red-600">— 1599</span></p>
-        <p><a class="inline-flex gap-x-2" href="#">Lõuna-Eesti Haigla (Võru)</a><span class="inline text-red-600">— 16662</span></p>
-        <p><a class="inline-flex gap-x-2" href="#">Narva Haigla</a> <span class="inline text-red-600">— 1220</span></p>
+      <div class="mt-3 grid space-y-3 text-gray-600">
+        <h4 class="text-md font-semibold text-gray-800">Valvetoad</h4>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Kuressaare Haigla</a><span class="inline text-red-600">— 112</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Tallinna Lastehaigla</a><span class="inline text-red-600">— 16662</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Tartu Ülikooli kliinikum</a> <span class="inline text-red-600">— 1220</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Regionaalhaigla</a><span class="inline text-red-600">— 1599</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Lõuna-Eesti Haigla (Võru)</a><span class="inline text-red-600">— 16662</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Narva Haigla</a> <span class="inline text-red-600">— 1220</span></p>
       </div>
     </div>
     <!-- End Col -->
@@ -71,7 +71,7 @@
     <div>
       <h4 class="text-md font-semibold">Kasutatud allikad</h4>
 
-      <div class="mt-3 grid space-y-3 text-sm">
+      <div class="mt-3 grid space-y-3 text-sm text-gray-600">
         <p><a class="inline-flex gap-x-2" href="#">See</a></p>
         <p><a class="inline-flex gap-x-2" href="#">See</a></p>
         <p><a class="inline-flex gap-x-2" href="#">See</a></p>
@@ -84,7 +84,7 @@
       <h4 class="text-md font-semibold">Developers</h4>
 
       <div class="mt-3 grid space-y-3 text-sm">
-        <p><a class="inline-flex gap-x-2" href="#">GitHub</a> <span class="inline text-blue-600 dark:text-blue-500">— New</span></p>
+        <p><a class="inline-flex gap-x-2 text-gray-600" href="#">GitHub</a> <span class="inline text-blue-600 dark:text-blue-500">— New</span></p>
       </div>
 
     </div>
