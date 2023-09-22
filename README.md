@@ -64,9 +64,11 @@ Peatsetel lapsevanematel (eriti esmakordsetel) on tihti mure, kuidas tagada uue 
   22.09
 - Eelmise päeva töö review ja ka eelmise päeva lõpus tehtud ja välja pakutud muudatuste review (drop-down asjade osas jms).
 - Teksti sisestamine ja kokkupanek.
+- Testimine.
+- Lehe ülespanek.
 - Disainis jälle pisikesed muudatused.
-- Hingetõmbepaus.
 - Viimased tekstid lünkadesse.
+- Testimine.
 - Viimased viimistlused.
 - Esitlus.
 
