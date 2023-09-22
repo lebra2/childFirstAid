@@ -38,7 +38,7 @@ Peatsetel lapsevanematel (eriti esmakordsetel) on tihti mure, kuidas tagada uue 
 - Githubi repo.
 - Põhilisteks infoallikateks ja inspiratisooni-lehtedeks valisime virtuaalkliinik.ee lehe ja UK Red Crossi Baby and child first aid äpi.
 - Pisike brainstorm. Panime paberile kirja kõik märksõnad, mis meil beebide ja väikelaste esmaabiga seoses pähe tulevad.
-- ![brainstorming, kind of..](https://docs.google.com/document/d/1jzCFoLMQPzi8djkq5MAoO1WI5tWft8vfTbK88BMQGzM/edit)
+- ![brainstorming](https://user-images.githubusercontent.com/113007378/269839117-dacd612b-dd9d-46a1-8263-7cc83381aa35.jpg)
 - Eestikeelsel lehel virtuaalkliinik.ee analüüsimisel leidsime, et on küll väga hea leht, kuid puudvad õpetlikud videod ja pildimaterjal, samuti spetsiifiliselt väikelastele suunatud elementaarne esmaabi. Pildimaterjal ja lühivideod on tähtsad, sest paljudel inimestel on foto-mälu (mõned instruktsioonid, nagu näiteks väikelapse lämbumise korral tuleb lapsele seljale koputada, on mitmeti mõistetavad. Kui kõvasti? Kuhu seljaalale täpsemalt? jne).
 - Panime paika peamised alajaotused, mida lehel tahame kuvada.
 - Väga häid ja lihtsaid videosid leidsime, aga inglise keeles. Kas voiceover? ise? kasutades AI-d?
