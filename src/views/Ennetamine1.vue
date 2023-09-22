@@ -9,24 +9,25 @@ import Haigus11 from '../components/Haigus11.vue';
 <template>
   <main>
     <Header />
-    <Haigus11 video-link="https://www.youtube.com/watch?v=vclQ6gLFOOw"
-    sellest-para="sadfasdfasf"
-    haiguse-ennet1="asdfasdfasfd"
-    haiguse-ennet2="asdfasdf"
-    haiguse-ennet3="asdfasdf"
-    tee-seda1="asdfasdf"
+    <h1>Mürgistused</h1>
+    <Haigus11 video-link="https://youtu.be/0PJvYPFFSQk"
+    sellest-para="Kõige rohkem välditavaid mürgistusõnnetusi juhtub kodus ja kuni nelja-aastaste lastega."
+    haiguse-ennet1="Muuda oma kodu ohutumaks. Lihtsad juhised leiad virtuaalkodust: https://agamina.ee/360/"
+    haiguse-ennet2="Vii ennast levinumate ohtudega kurssi: https://www.16662.ee/et/murgistusriskid/laste-murgistused-kodus"
+    haiguse-ennet3="Ära alahinda oma lapse leidlikkust pakendi avamisel või ronimisoskust"
+    tee-seda1=""
     tee-seda2="asdasd"
     tee-seda3="asdasdasd"
     tee-seda4="asdasdasd"
-    midateha-v=""
-    midateha-v2=""
-    midateha-v3=""
-    kysimus1=""
-    kysimus2=""
-    kysimus3=""
-    vastus1=""
-    vastus2=""
-    vastus3=""/>
+    midateha-v="Hoia ravimid teistest väikepudelitest (nt eeterlikest õlidest) eraldi. Ravimi andmisel ole hoolas ja pane vajalik kogus topsi või lusikale valmis - otse suhu tilgutamisel võib aplikaator puruneda või tulla liiga palju ravimit."
+    midateha-v2="Pane kemikaalid, ravimid jmt kappi, kuhu laps ei pääse ligi"
+    midateha-v3="Hoia ravimid ja teised väikepudelid lahus. Hoia ravimid ohutus kohas, lapse ravimeid eraldi."
+    kysimus1="Millised on mürgistussümptomid?"
+    kysimus2="Kes vastab mürgistusinfoliini kõnedele?"
+    kysimus3="Mida teha mürgistuskahtluse korral?"
+    vastus1="Mürgistussümptomid võivad olla erinevad ning sõltuvad mürgi organismi sattumise viisist, kogusest ning mürgist endast. Iiveldus, oksendamine, unisus, kõhuvalu on levinumad sümptomid."
+    vastus2="Mürgistusinfoliinil vastavad kogenud õed, kes on saanud eriväljaõppe toksikoloogia valdkonnas."
+    vastus3="Kui kahtlustad, et laps on saanud mürgistuse, ära oota sümptomite tekkimist. Ära püüa esile kutsuda oksendamist! See võib põhjustada enam kahju kui head."/>
     <Footer />
 
     <Footer />
