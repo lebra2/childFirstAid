@@ -41,16 +41,16 @@
 </script> -->
 
 <template>
-  <footer class="text-gray-800 w-full px-4 py-10  mx-auto">
+  <footer class="text-gray-800 w-full px-4 py-10  mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto ">
   <!-- Grid -->
   <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-10">
     <div>
       <div class="mt-3 grid space-y-3">
         <h4 class="text-md font-semibold">Üldine</h4>
-        <p><a class="inline-flex gap-x-2 text-sm" href="#">Hädaabi</a><span class="inline text-red-600">— 112</span></p>
-        <p><a class="inline-flex gap-x-2 text-sm" href="#">Mürgistusteabekeskus</a><span class="inline text-red-600">— 16662</span></p>
-        <p><a class="inline-flex gap-x-2 text-sm" href="#">Perearsti nõuandetelefon</a> <span class="inline text-red-600">— 1220</span></p>
-        <p><a class="inline-flex gap-x-2 text-sm" href="#">Lastearsti (tasuline) nõuandeliin</a><span class="inline text-red-600">— 1599</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Hädaabi</a><span class="inline text-red-600"><br> 112</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Mürgistusteabekeskus</a><span class="inline text-red-600"><br> 16662</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Perearsti nõuandetelefon</a> <span class="inline text-red-600"><br> 1220</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Lastearsti (tasuline) nõuandeliin</a><span class="inline text-red-600"><br> 1599</span></p>
       </div>
     </div>
     <!-- End Col -->
@@ -58,12 +58,12 @@
     <div>
       <div class="mt-3 grid space-y-3 text-gray-600">
         <h4 class="text-md font-semibold text-gray-800">Valvetoad</h4>
-        <p><a class="inline-flex gap-x-2 text-sm" href="#">Kuressaare Haigla</a><span class="inline text-red-600">— 112</span></p>
-        <p><a class="inline-flex gap-x-2 text-sm" href="#">Tallinna Lastehaigla</a><span class="inline text-red-600">— 16662</span></p>
-        <p><a class="inline-flex gap-x-2 text-sm" href="#">Tartu Ülikooli kliinikum</a> <span class="inline text-red-600">— 1220</span></p>
-        <p><a class="inline-flex gap-x-2 text-sm" href="#">Regionaalhaigla</a><span class="inline text-red-600">— 1599</span></p>
-        <p><a class="inline-flex gap-x-2 text-sm" href="#">Lõuna-Eesti Haigla (Võru)</a><span class="inline text-red-600">— 16662</span></p>
-        <p><a class="inline-flex gap-x-2 text-sm" href="#">Narva Haigla</a> <span class="inline text-red-600">— 1220</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Kuressaare Haigla</a><span class="inline text-red-600"><br> 452 0038</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Tallinna Lastehaigla</a><span class="inline text-red-600"><br> 1697 7146</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Tartu Ülikooli kliinikum</a> <span class="inline text-red-600"><br> 731 9512</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Regionaalhaigla</a><span class="inline text-red-600"><br> 617 1369</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Lõuna-Eesti Haigla (Võru)</a><span class="inline text-red-600"><br> 786 8511</span></p>
+        <p><a class="inline-flex gap-x-2 text-sm" href="#">Narva Haigla</a> <span class="inline text-red-600"><br> 35 71 830</span></p>
       </div>
     </div>
     <!-- End Col -->
@@ -72,10 +72,10 @@
       <h4 class="text-md font-semibold">Kasutatud allikad</h4>
 
       <div class="mt-3 grid space-y-3 text-sm text-gray-600">
-        <p><a class="inline-flex gap-x-2" href="#">See</a></p>
-        <p><a class="inline-flex gap-x-2" href="#">See</a></p>
-        <p><a class="inline-flex gap-x-2" href="#">See</a></p>
-        <p><a class="inline-flex gap-x-2" href="#">See</a></p>
+        <p><a class="inline-flex gap-x-2 cursor-pointer" href="https://www.redcross.org.uk/">British Red Cross</a></p>
+        <p><a class="inline-flex gap-x-2 cursor-pointer" href="https://www.virtuaalkliinik.ee/">Virtuaalkliinik</a></p>
+        <p><a class="inline-flex gap-x-2 cursor-pointer" href="https://agamina.ee/">MTÜ Aga Mina</a></p>
+        <p><a class="inline-flex gap-x-2 cursor-pointer" href="https://www.16662.ee/et">Mürgistus Teabe Keskus</a></p>
       </div>
     </div>
     <!-- End Col -->
