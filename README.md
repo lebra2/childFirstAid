@@ -38,7 +38,7 @@ Peatsetel lapsevanematel (eriti esmakordsetel) on tihti mure, kuidas tagada uue 
 - Githubi repo.
 - Põhilisteks infoallikateks ja inspiratisooni-lehtedeks valisime virtuaalkliinik.ee lehe ja UK Red Crossi Baby and child first aid äpi.
 - Pisike brainstorm. Panime paberile kirja kõik märksõnad, mis meil beebide ja väikelaste esmaabiga seoses pähe tulevad.
-- ![brainstorming](https://user-images.githubusercontent.com/113007378/269839117-dacd612b-dd9d-46a1-8263-7cc83381aa35.jpg)
+  ![brainstorming](https://user-images.githubusercontent.com/113007378/269839117-dacd612b-dd9d-46a1-8263-7cc83381aa35.jpg)
 - Eestikeelsel lehel virtuaalkliinik.ee analüüsimisel leidsime, et on küll väga hea leht, kuid puudvad õpetlikud videod ja pildimaterjal, samuti spetsiifiliselt väikelastele suunatud elementaarne esmaabi. Pildimaterjal ja lühivideod on tähtsad, sest paljudel inimestel on foto-mälu (mõned instruktsioonid, nagu näiteks väikelapse lämbumise korral tuleb lapsele seljale koputada, on mitmeti mõistetavad. Kui kõvasti? Kuhu seljaalale täpsemalt? jne).
 - Panime paika peamised alajaotused, mida lehel tahame kuvada.
 - Väga häid ja lihtsaid videosid leidsime, aga inglise keeles. Kas voiceover? ise? kasutades AI-d?
@@ -59,12 +59,11 @@ Peatsetel lapsevanematel (eriti esmakordsetel) on tihti mure, kuidas tagada uue 
 - Lastele ohtlike olukordade leidmine, lahenduste otsimine.
 - Pisike abi koodikirjutamisel teistest gruppidest.
 - Tekstide kontroll.
-- Videote otsimine. Kuhu kadusid eile otsitud videod?
-- 
+- Videote otsimine. 
 
   22.09
-- Eelmise päeva töö review.
-- Komponentide kokkupanek.
+- Eelmise päeva töö review ja ka eelmise päeva lõpus tehtud ja välja pakutud muudatuste review (drop-down asjade osas jms).
+- Teksti sisestamine ja kokkupanek.
 - Viimased viimistlused.
 
 
