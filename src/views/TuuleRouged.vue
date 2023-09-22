@@ -9,7 +9,6 @@ import Haigus11 from '../components/Haigus11.vue';
 <template>
   <main>
     <Header />
-    <h1>Tuulerõuged</h1>
     <Haigus11 video-link="https://www.youtube.com/watch?v=vclQ6gLFOOw"
     sellest-para="Tuulerõuged ehk varitsella-zoster viiruse põhjustatud nakkus on üsna levinud lapsepõlvehaigus, mis võib esineda ka täiskasvanutel. Tuulerõuged avalduvad tavaliselt palaviku, sügeluse ja nahal esinevate väikeste punaste laikude või villidega. Need villid võivad sügeleda väga tugevalt. Haigus võib põhjustada ka üldist halba enesetunnet."
     haiguse-ennet1="Vaktsineerimine."

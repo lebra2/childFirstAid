@@ -9,7 +9,6 @@ import Haigus11 from '../components/Haigus11.vue';
 <template>
   <main>
     <Header />
-    <h1>Mürgistused</h1>
     <Haigus11 video-link="https://www.youtube.com/watch?v=vclQ6gLFOOw"
     sellest-para="Mürgistus tekib siis, kui inimesed joovad, söövad, hingavad, süstivad või puutuvad piisavalt ohtlikku ainet (mürki), mis võib põhjustada haigust või surma. Mõned mürgid võivad väga väikestes kogustes põhjustada haigusi või vigastusi. Haigus võib pärast mürgiga kokkupuudet tekkida väga kiiresti või pikaajalise kokkupuute korral võib see areneda mitme aasta jooksul."
     haiguse-ennet1="Muuda oma kodu ohutumaks. Lihtsad juhised leiad virtuaalkodust: https://agamina.ee/360/"
