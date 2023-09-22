@@ -9,9 +9,9 @@ import Haigus11 from '../components/Haigus11.vue';
 <template>
   <main>
     <Header />
-    <h1>Olukordade Ennetamine 1</h1>
-    <Haigus11 video-link="https://www.youtube.com/watch?v=vclQ6gLFOOw"
-    sellest-para="sadfasdfasf"
+    <h1>Mürgistused</h1>
+    <Haigus11 video-link="https://youtu.be/sp3l4fJ0vb8"
+    sellest-para="k askkds fkasdf kasdfk sdakf as"
     haiguse-ennet1="asdfasdfasfd"
     haiguse-ennet2="asdfasdf"
     haiguse-ennet3="asdfasdf"
