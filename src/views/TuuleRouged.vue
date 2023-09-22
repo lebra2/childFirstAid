@@ -9,16 +9,16 @@ import Haigus11 from '../components/Haigus11.vue';
 <template>
   <main>
     <Header />
-    <h1>Haiguste ennetamine 1</h1>
-    <Haigus11 video-link=""
-    sellest-para=""
-    haiguse-ennet1=""
-    haiguse-ennet2=""
-    haiguse-ennet3=""
-    tee-seda1=""
-    tee-seda2=""
-    tee-seda3=""
-    tee-seda4=""
+    <h1>TuuleRouged</h1>
+    <Haigus11 video-link="https://www.youtube.com/watch?v=vclQ6gLFOOw"
+    sellest-para="sadfasdfasf"
+    haiguse-ennet1="asdfasdfasfd"
+    haiguse-ennet2="asdfasdf"
+    haiguse-ennet3="asdfasdf"
+    tee-seda1="asdfasdf"
+    tee-seda2="asdasd"
+    tee-seda3="asdasdasd"
+    tee-seda4="asdasdasd"
     midateha-v=""
     midateha-v2=""
     midateha-v3=""

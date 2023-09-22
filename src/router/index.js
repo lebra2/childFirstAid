@@ -44,6 +44,21 @@ const router = createRouter({
       path: '/ennetamine4',
       name: 'ennetamine4',
       component: () => import('../views/Ennetamine4.vue')
+    },
+    {
+      path: '/LakaKoha',
+      name: 'LakaKoha',
+      component: () => import('../views/LakaKoha.vue')
+    },
+    {
+      path: '/Mumps',
+      name: 'Mumps',
+      component: () => import('../views/Mumps.vue')
+    },
+    {
+      path: '/TuuleRouged',
+      name: 'TuuleRouged',
+      component: () => import('../views/TuuleRouged.vue')
     }
   ]
 })
