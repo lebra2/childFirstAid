@@ -26,7 +26,12 @@ const props = defineProps({
 <template>
     <div class="bg-[#F6F6F7] divide-y divide-gray-300 max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
         <div class="">
-            <iframe class="px-4 w-full h-64 xl:h-[40rem] sm:h-96" :src="videoLink" allowfullscreen></iframe>
+            <!-- <video class="px-4 w-full h-64 xl:h-[40rem] sm:h-96" :src="videoLink" allowfullscreen></video> -->
+            <iframe class="px-4 w-full h-64 xl:h-[40rem] sm:h-96" width="" height="" :src="videoLink" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen></iframe>
         </div>
 
         <div class="px-4 my-8">

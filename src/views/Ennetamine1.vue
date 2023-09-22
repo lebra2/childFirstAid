@@ -9,8 +9,7 @@ import Haigus11 from '../components/Haigus11.vue';
 <template>
   <main>
     <Header />
-    <h1>Mürgistused</h1>
-    <Haigus11 video-link="https://youtu.be/0PJvYPFFSQk"
+    <Haigus11 video-link="https://www.youtube.com/embed/0PJvYPFFSQk?si=3e-mj-vLOEiWt_qe"
     sellest-para="Kõige rohkem välditavaid mürgistusõnnetusi juhtub kodus ja kuni nelja-aastaste lastega."
     haiguse-ennet1="Muuda oma kodu ohutumaks. Lihtsad juhised leiad virtuaalkodust: https://agamina.ee/360/"
     haiguse-ennet2="Vii ennast levinumate ohtudega kurssi: https://www.16662.ee/et/murgistusriskid/laste-murgistused-kodus"
