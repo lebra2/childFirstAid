@@ -18,7 +18,16 @@ import Haigus11 from '../components/Haigus11.vue';
     tee-seda1=""
     tee-seda2=""
     tee-seda3=""
-    tee-seda4=""/>
+    tee-seda4=""
+    midateha-v=""
+    midateha-v2=""
+    midateha-v3=""
+    kysimus1=""
+    kysimus2=""
+    kysimus3=""
+    vastus1=""
+    vastus2=""
+    vastus3=""/>
     <Footer />
 
     <Footer />

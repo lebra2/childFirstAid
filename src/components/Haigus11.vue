@@ -17,6 +17,9 @@ const props = defineProps({
     vastus1: String,
     vastus2: String,
     vastus3: String,
+    midatehaV: String,
+    midatehaV2: String,
+    midatehaV3: String,
 })
 </script>
 
@@ -38,9 +41,9 @@ const props = defineProps({
         <div class="my-8">
             <ol class="list-decimal px-4 list-inside text-gray-800">
             <h1 class="text-md font-semibold my-2">Mida teha?</h1>
-            <li class="text-sm">Now this is a story all about how, my life got flipped turned upside down</li>
-            <li class="text-sm">And I like to take a minute and sit right here</li>
-            <li class="text-sm">I'll tell you how I became the prince of a town called Bel-Air </li>
+            <li class="text-sm">{{ midatehaV }}</li>
+            <li class="text-sm">{{ midatehaV2 }}</li>
+            <li class="text-sm">{{midatehaV3}} </li>
         </ol>
         </div>
 

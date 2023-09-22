@@ -1,6 +1,7 @@
 <script setup>
 import Season from './Season.vue';
 import Ennetamine from './Ennetamine.vue'
+import HaigusteList from './HaigusteList.vue';
 
 function extendMenu(id) {
     const dropdown = document.getElementById(id)
@@ -57,17 +58,22 @@ function extendMenu(id) {
                 </div>
             </blockquote>
         <div class="gap-4 py-6">
-            <div class="bg-white h-14 rounded-b-md border-b-2 overflow-hidden" id="dp1">
+            <!-- <div class="bg-white h-14 rounded-b-md border-b-2 overflow-hidden" id="dp1">
             <div class="flex justify-between items-center h-14 w-full ">
                 <p class="m-2 font-medium text-gray-800 text-md  ">Hooajalised haigused</p>
                 <img class="w-4 h-4 mr-4 cursor-pointer" src="../assets/Pictures/icons8-arrow-30.png" id="imgdp1" alt="" @click="extendMenu('dp1')">
             </div>
-            <Season />
-        </div>
+                <Season />
+            </div> -->
         <div class="bg-white h-14 rounded-b-md font-medium border-b-2 overflow-hidden" id="dp2">
             <div class="flex justify-between items-center h-14 w-full">
                 <p class="m-2 font-medium text-gray-800">Ennetamine</p>
                 <img class="w-4 h-4 mr-4 cursor-pointer" src="../assets/Pictures/icons8-arrow-30.png" id="imgdp2" alt="" @click="extendMenu('dp2')">
+
+            </div>
+            <h2 class="p-2">Sissejuhatus</h2>
+            <div class="">
+                <embed src="https://agamina.ee/360/?autoplay=0controls=1" type="" class="w-full h-64">
             </div>
             <Ennetamine />
         </div>
@@ -76,11 +82,11 @@ function extendMenu(id) {
                 <p class="m-2 font-medium text-gray-800">Haigused</p>
                 <img class="w-4 h-4 mr-4 cursor-pointer" src="../assets/Pictures/icons8-arrow-30.png" id="imgdp3" alt="" @click="extendMenu('dp3')">
             </div>
-            <Season />
+            <HaigusteList />
         </div>
         <div class="bg-white h-14 rounded-b-md font-medium border-b-2 overflow-hidden " id="dp4">
             <div class="flex justify-between items-center h-14 w-full">
-                <p class="m-2 font-medium text-gray-800">Olukorrad</p>
+                <p class="m-2 font-medium text-gray-800">Esmaabi</p>
                 <img class="w-4 h-4 mr-4 cursor-pointer hover:green-500" src="../assets/Pictures/icons8-arrow-30.png" id="imgdp4" alt="" @click="extendMenu('dp4')">
             </div>
             <Season />
