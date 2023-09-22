@@ -9,7 +9,6 @@ import Haigus11 from '../components/Haigus11.vue';
 <template>
   <main>
     <Header />
-    <h1>Mumps</h1>
     <Haigus11 video-link="https://www.youtube.com/watch?v=vclQ6gLFOOw"
     sellest-para="Mumps ehk pärmseene põhjustatud nakkushaigus on viiruslik infektsioon, mille peamisteks sümptomiteks on palavik, lõua ja kõrva piirkonnas paistes lümfisõlmed ning valulikud süljenäärmed."
     haiguse-ennet1="Mumpside vastu on olemas vaktsiin, mis on osa leetrite-mumpsi-punetiste (MMR) vaktsiinist. MMR-vaktsiin antakse tavaliselt kahe doosina, esimene doos lapseeas ja teine doos hiljem lapsepõlves või noorukieas."

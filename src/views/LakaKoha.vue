@@ -9,7 +9,6 @@ import Haigus11 from '../components/Haigus11.vue';
 <template>
   <main>
     <Header />
-    <h1>Läkaköha</h1>
     <Haigus11 video-link="https://www.youtube.com/watch?v=vclQ6gLFOOw"
     sellest-para="Läkaköha on nakkushaigus, mis mõjutab hingamisteid ja mille peamisteks sümptomiteks on köha, eriti öösel, ning vilistav hingamine. See on põhjustatud bakterist nimega Bordetella pertussis. Läkaköha võib olla eriti ohtlik väikelastele ja imikutele."
     haiguse-ennet1="Parim viis läkaköha ennetamiseks on vaktsineerimine. Läkaköha on osa DTP-vaktsiinist, mis on osa enamuse riikide vaktsineerimisprogrammidest. Vaktsiin on efektiivne ja aitab vähendada haiguse esinemissagedust."
