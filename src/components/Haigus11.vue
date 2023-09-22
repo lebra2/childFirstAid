@@ -24,26 +24,32 @@ const props = defineProps({
 </script>
 
 <template>
-    <div class="bg-[#F6F6F7] divide-y divide-gray-300">
+    <div class="bg-[#F6F6F7] divide-y divide-gray-300 max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
         <div class="">
-            <iframe class="px-4 w-full h-64" :src="videoLink" allowfullscreen></iframe>
+            <!-- <video class="px-4 w-full h-64 xl:h-[40rem] sm:h-96" :src="videoLink" allowfullscreen></video> -->
+            <iframe class="px-4 w-full h-64 xl:h-[40rem] sm:h-96" width="" height="" :src="videoLink" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen></iframe>
         </div>
+
         <div class="px-4 my-8">
-            <h1 class="text-md font-semibold my-2">Sellest:</h1>
-            <h2 class="text-sm">{{ sellestPara }}</h2>
+            <h1 class="text-md font-semibold my-2 sm:text-lg md:text-4xl ">Sellest:</h1>
+            <p class="text-sm md:text-lg">{{ sellestPara }}</p>
         </div>
         <ol class="px-4 my-8 list-decimal list-inside text-gray-800">
-            <h1 class="text-md font-semibold my-2">Ennetused</h1>
-            <li class="text-sm">{{ haiguseEnnet1 }}</li>
-            <li class="text-sm">{{ haiguseEnnet2}}</li>
-            <li class="text-sm">{{haiguseEnnet3}}</li>
+            <h1 class="text-md font-semibold my-2 sm:text-lg md:text-4xl">Ennetused</h1>
+            <li class="text-sm md:text-lg">{{ haiguseEnnet1 }}</li>
+            <li class="text-sm md:text-lg">{{ haiguseEnnet2}}</li>
+            <li class="text-sm md:text-lg">{{haiguseEnnet3}}</li>
         </ol>
         <div class="my-8">
             <ol class="list-decimal px-4 list-inside text-gray-800">
-            <h1 class="text-md font-semibold my-2">Mida teha?</h1>
-            <li class="text-sm">{{ midatehaV }}</li>
-            <li class="text-sm">{{ midatehaV2 }}</li>
-            <li class="text-sm">{{midatehaV3}} </li>
+            <h1 class="text-md font-semibold my-2 sm:text-lg md:text-4xl">Mida teha?</h1>
+            <li class="text-sm md:text-lg">{{ midatehaV }}</li>
+            <li class="text-sm md:text-lg">{{ midatehaV2 }}</li>
+            <li class="text-sm md:text-lg">{{midatehaV3}} </li>
         </ol>
         </div>
 
