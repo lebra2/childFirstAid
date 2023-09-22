@@ -53,8 +53,8 @@ function extendMenu(id) {
                 </svg>
 
                 <div class="relative z-10">
-                    <p class="text-gray-800 text-sm md:text-center md:text-lg lg:text-xl"><em>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error accusamus laudantium quaerat esse ex? Suscipit, dignissimos dolorum! Facilis excepturi minima.
+                    <p class="text-gray-800 text-sm"><em>
+                    <b>Päevasoovitus!</b> Andes lapsele söögiks viinamarju või kirsstomateid, lõika nad esmalt pikuti pooleks. Nii väldid olukorda, kus laps võib omale selle ümmarguse ja libeda vilja kurku tõmmata!
                     </em></p>
                 </div>
             </blockquote>
