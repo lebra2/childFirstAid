@@ -9,7 +9,6 @@ import Haigus11 from '../components/Haigus11.vue';
 <template>
   <main>
     <Header />
-    <h1>Teadvuseta</h1>
     <Haigus11 video-link="https://www.youtube.com/watch?v=vclQ6gLFOOw"
     sellest-para="sadfasdfasf"
     haiguse-ennet1="asdfasdfasfd"
