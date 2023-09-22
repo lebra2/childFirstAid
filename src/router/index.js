@@ -59,7 +59,24 @@ const router = createRouter({
       path: '/TuuleRouged',
       name: 'TuuleRouged',
       component: () => import('../views/TuuleRouged.vue')
-    }
+    },
+    {
+      path: '/NinaverejooksE',
+      name: 'NinaverejooksE',
+      component: () => import('../views/NinaverejooksE.vue')
+    },
+    {
+      path: '/Myrgistused2',
+      name: 'Myrgistused2',
+      component: () => import('../views/Myrgistused2.vue')
+    },
+    {
+      path: '/Teadvuseta',
+      name: 'Teadvuseta',
+      component: () => import('../views/Teadvuseta.vue')
+    },
+
+
   ]
 })
 

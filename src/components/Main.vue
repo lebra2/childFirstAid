@@ -2,6 +2,7 @@
 import Season from './Season.vue';
 import Ennetamine from './Ennetamine.vue'
 import HaigusteList from './HaigusteList.vue';
+import EsmaabiList from './EsmaabiList.vue';
 
 function extendMenu(id) {
     const dropdown = document.getElementById(id)
@@ -89,7 +90,7 @@ function extendMenu(id) {
                 <p class="m-2 font-medium text-gray-800">Esmaabi</p>
                 <img class="w-4 h-4 mr-4 cursor-pointer hover:green-500" src="../assets/Pictures/icons8-arrow-30.png" id="imgdp4" alt="" @click="extendMenu('dp4')">
             </div>
-            <Season />
+            <EsmaabiList />
         </div>
         <div class="bg-white h-14 rounded-b-md font-medium border-b-2 overflow-hidden ">
             <div class="flex justify-between items-center h-14 w-full cursor-not-allowed">
